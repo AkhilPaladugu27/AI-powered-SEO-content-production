@@ -1,6 +1,3 @@
-File 12: research/youtube-transcripts/rahul-marthak-no-seo-content.md
-markdown# YouTube Research: Rahul Marthak
-
 **Expert Name:** Rahul Marthak  
 **LinkedIn:** https://www.linkedin.com/in/rahulmarthak/  
 **YouTube Channel:** https://www.youtube.com/@RahulMarthak  
