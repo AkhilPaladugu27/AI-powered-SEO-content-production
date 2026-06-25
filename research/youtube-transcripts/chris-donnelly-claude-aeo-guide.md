@@ -1,6 +1,3 @@
-File 2: research/youtube-transcripts/chris-donnelly-claude-aeo-guide.md
-markdown# YouTube Transcript: Chris Donnelly — How To Make Claude Promote Your Business (Full Guide)
-
 **Expert Name:** Chris Donnelly  
 **Video Title:** How To Make Claude Promote Your Business (Full Guide)  
 **Video URL:** https://www.youtube.com/watch?v=QMGq-voIA5I  
