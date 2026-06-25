@@ -1,6 +1,3 @@
-File 5: research/youtube-transcripts/anastasia-kotsiubynska-ai-overviews.md
-markdown# YouTube Transcript: Anastasia Kotsiubynska — Insights from SE Ranking's AI Overview Study
-
 **Expert Name:** Anastasia Kotsiubynska  
 **Video Title:** Insights from SE Ranking's AI Overview Study w/ Anastasia Kotsiubynska  
 **Video URL:** https://www.youtube.com/watch?v=CgFzhAZpXWY  
