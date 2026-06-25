@@ -1,13 +1,3 @@
-Index File: research/youtube-transcripts/README.md
-markdown# YouTube Transcripts — AI-Powered SEO Content Production Research
-
-This directory contains YouTube video transcripts and research notes for 10 experts in AI-powered SEO and content production.
-
-**Research Date:** June 25, 2026  
-**Scope:** Official YouTube channels, conference talks, interviews, webinars, or podcast videos where each expert is the primary speaker — focused on AI-powered SEO, SEO, content marketing, or AI content production.
-
----
-
 ## Index of Experts
 
 | # | Expert | YouTube Channel | Status | Videos Selected | Transcript Files |
@@ -105,9 +95,3 @@ This directory contains YouTube video transcripts and research notes for 10 expe
 | 5 Signs Your AI SEO Strategy Is About to Take Off | [Watch](https://www.youtube.com/watch?v=SxTuBggWU2w) | ~May 2026 | `neil-patel-ai-seo-signs.md` |
 | The Old SEO System Is Collapsing. Here's What Replaces It. | [Watch](https://www.youtube.com/watch?v=7WrRTq2hkKk) | ~May 2026 | `neil-patel-old-seo-collapsing.md` |
 
----
-
-## File Listing
-research/youtube-transcripts/
-├── README.md                                          ← This index file
-├── chris-donnelly-content-strategy.md
