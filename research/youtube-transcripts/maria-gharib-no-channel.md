@@ -1,6 +1,3 @@
-File 8: research/youtube-transcripts/maria-gharib-no-channel.md
-markdown# YouTube Research: Maria Gharib
-
 **Expert Name:** Maria Gharib  
 **LinkedIn:** https://www.linkedin.com/in/maria-gharib-091779b9/
 
