@@ -1,6 +1,3 @@
-File 3: research/youtube-transcripts/neil-patel-ai-seo-signs.md
-markdown# YouTube Transcript: Neil Patel — 5 Signs Your AI SEO Strategy Is About to Take Off
-
 **Expert Name:** Neil Patel  
 **Video Title:** 5 Signs Your AI SEO Strategy Is About to Take Off  
 **Video URL:** https://www.youtube.com/watch?v=SxTuBggWU2w  
