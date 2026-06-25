@@ -1,6 +1,3 @@
-File 4: research/youtube-transcripts/neil-patel-old-seo-collapsing.md
-markdown# YouTube Transcript: Neil Patel — The Old SEO System Is Collapsing. Here's What Replaces It.
-
 **Expert Name:** Neil Patel  
 **Video Title:** The Old SEO System Is Collapsing. Here's What Replaces It.  
 **Video URL:** https://www.youtube.com/watch?v=7WrRTq2hkKk  
