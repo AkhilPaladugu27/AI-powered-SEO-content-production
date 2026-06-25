@@ -1,6 +1,3 @@
-File 1: research/youtube-transcripts/chris-donnelly-content-strategy.md
-markdown# YouTube Transcript: Chris Donnelly — Give Me 21 Minutes And I'll Fix Your Content Strategy
-
 **Expert Name:** Chris Donnelly  
 **Video Title:** Give Me 21 Minutes And I'll Fix Your Content Strategy  
 **Video URL:** https://www.youtube.com/watch?v=7wp2kVpmDtY  
