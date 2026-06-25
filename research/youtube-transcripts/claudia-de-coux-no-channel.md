@@ -1,6 +1,3 @@
-File 10: research/youtube-transcripts/claudia-de-coux-no-channel.md
-markdown# YouTube Research: Claudia de Coux
-
 **Expert Name:** Claudia de Coux  
 **LinkedIn:** https://www.linkedin.com/in/claudia-de-coux/
 
