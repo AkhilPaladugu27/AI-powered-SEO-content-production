@@ -1,6 +1,3 @@
-File 7: research/youtube-transcripts/aastha-kochar-keyword-research.md
-markdown# YouTube Transcript: Aastha Kochar — How to Do Keyword Research for FREE & Rank Blogs on Google
-
 **Expert Name:** Aastha Kochar  
 **Video Title:** How to Do Keyword Research for FREE & Rank Blogs on Google (Semrush Keyword Magic Tool Alternative)  
 **Video URL:** https://www.youtube.com/watch?v=t9LRfwnyRJU  
