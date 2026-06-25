@@ -1,6 +1,3 @@
-File 6: research/youtube-transcripts/alicia-gilbert-seo-journey.md
-markdown# YouTube Transcript: Alicia Gilbert — My SEO Journey So Far | #TwSEOs 73
-
 **Expert Name:** Alicia Gilbert  
 **Video Title:** My SEO Journey So Far | Alicia Gilbert | #TwSEOs 73  
 **Video URL:** https://www.youtube.com/watch?v=B-kAmL6bFVU  
