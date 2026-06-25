@@ -1,7 +1,5 @@
 # Sources — AI-Powered SEO Content Production Research
 
-**Collection Date:** 2026-06-25
-**Repository Topic:** AI-Powered SEO Content Production
 
 ---
 
