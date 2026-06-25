@@ -1,6 +1,3 @@
-File 9: research/youtube-transcripts/sunny-grewal-shorts-only.md
-markdown# YouTube Research: Sunny Grewal
-
 **Expert Name:** Sunny Grewal  
 **LinkedIn:** https://www.linkedin.com/in/sunny-grewal/  
 **YouTube Channel:** https://www.youtube.com/@sunnygrewalreal  
