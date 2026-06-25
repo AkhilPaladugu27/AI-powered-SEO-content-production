@@ -1,4 +1,3 @@
-File 11: research/youtube-transcripts/anku-kush-no-channel.md
 markdown# YouTube Research: Anku Kush
 
 **Expert Name:** Anku Kush  
